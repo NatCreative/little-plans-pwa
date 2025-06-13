@@ -7,12 +7,12 @@
   "theme_color": "#2C373D",
   "icons": [
     {
-      "src": "https://your-username.github.io/little-plans-pwa/icon-192.png",
+      "src": "https://NatCreative.github.io/little-plans-pwa/icon-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://your-username.github.io/little-plans-pwa/icon-512.png",
+      "src": "https://NatCreative.github.io/little-plans-pwa/icon-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
